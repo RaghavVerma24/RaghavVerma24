@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Notify, a helpful student application built with react**
 - 🌱 I’m currently learning **React, C++ and Python**
 - 👨‍💻 All of my projects are available at [My Website](https://www.iraghav.tk/)
-- 📫 How to reach me [My Email](racooraghav24@gmail.com)
+- 📫 How to reach me [My Email](mailto:racooraghav24@gmail.com)
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1P6JgmvXdLUj4sYj9dNQVZLar6oxoPInw/view?usp=sharing)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavverma24&show_icons=true&locale=en" alt="raghavverma24" /></p>
