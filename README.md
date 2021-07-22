@@ -2,14 +2,10 @@
 <h3 align="center">I'm a Grade 12 student at Port Credit Secondary School interested in creating projects and exploring technology</h3>
 
 - 🔭 I’m currently working on **Notify, a helpful student application built with react**
-
 - 🌱 I’m currently learning **React, C++ and Python**
-
-- 👨‍💻 All of my projects are available at [www.iraghav.tk](www.iraghav.tk)
-
-- 📫 How to reach me **racooraghav24@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1P6JgmvXdLUj4sYj9dNQVZLar6oxoPInw/view?usp=sharing](https://drive.google.com/file/d/1P6JgmvXdLUj4sYj9dNQVZLar6oxoPInw/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [My Website](www.iraghav.tk)
+- 📫 How to reach me [My Email](racooraghav24@gmail.com)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1P6JgmvXdLUj4sYj9dNQVZLar6oxoPInw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
