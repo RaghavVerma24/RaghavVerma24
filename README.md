@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raghav Verma</h1>
 <h3 align="center">I'm a Grade 12 student at Port Credit Secondary School interested in creating projects and exploring technology</h3>
 
-- 🔭 I’m currently working on **Notify, a helpful student application built with react**
+- 🔭 I’m currently working on **Antive, a helpful student application built with react**
 - 🌱 I’m currently learning **React, C++ and Python**
 - 👨‍💻 All of my projects are available at [My Website](https://www.iraghav.tk/)
 - 📫 How to reach me [My Email](mailto:racooraghav24@gmail.com)
