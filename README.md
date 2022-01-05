@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Simplify, a helpful application built with react native for patient and doctor interaction**
 - 🌱 I’m currently learning **C++, React and Java**
-- 📫 How to reach me [My Email](mailto:racooraghav24@gmail.com)
+- 📫 How to reach me [My Email](mailto:racooraghav24@gmail.com) and [Linkedin](https://www.linkedin.com/in/raghav-verma-90b575206/)
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1P6JgmvXdLUj4sYj9dNQVZLar6oxoPInw/view?usp=sharing)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavverma24&show_icons=true&locale=en" alt="raghavverma24" /></p>
