@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raghav Verma</h1>
-<h3 align="center">I'm a Grade 12 student at Port Credit Secondary School interested in creating projects and exploring technology</h3>
+<h2>I'm a Grade 12 student at Port Credit Secondary School interested in creating projects and exploring technology!</h2>
 
-- 🔭 I’m currently working on **SimpliAsk, a helpful application built with React Native for patient and doctor interaction**
-- 🌱 I’m currently learning **C++, React and Java**
+- 🌱 I’m currently learning **C++ and ReactJS**
 - 📫 How to reach me [My Email](mailto:racooraghav24@gmail.com) and [Linkedin](https://www.linkedin.com/in/raghav-verma-90b575206/)
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1P6JgmvXdLUj4sYj9dNQVZLar6oxoPInw/view?usp=sharing)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavverma24&show_icons=true&locale=en" alt="raghavverma24" /></p>
 
