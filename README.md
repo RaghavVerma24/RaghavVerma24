@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghav Verma</h1>
-<h2>I'm a Grade 12 student at Port Credit Secondary School interested in creating projects and exploring technology!</h2>
+<h4>I'm a Grade 12 student at Port Credit Secondary School interested in creating projects and exploring technology!</h4>
 
 - 🌱 I’m currently learning **C++ and ReactJS**
 - 📫 How to reach me [My Email](mailto:racooraghav24@gmail.com) and [Linkedin](https://www.linkedin.com/in/raghav-verma-90b575206/)
