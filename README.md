@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghav Verma</h1>
-<h3>I'm a Grade 12 student at Port Credit Secondary School interested in creating projects and exploring technology!</h3>
+<h3>I'm a Computer Engineering student at University of Waterloo in creating projects and exploring technology!</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavverma24&show_icons=true&locale=en" alt="raghavverma24" /></p>
 
