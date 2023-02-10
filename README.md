@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm a Computer Engineering student at University of Waterloo in creating projects and exploring technology!
+I'm a Computer Engineering student at University of Waterloo interested in creating projects and exploring technology!
 
 
 ## 🌐 Socials:
