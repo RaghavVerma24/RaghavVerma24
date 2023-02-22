@@ -2,6 +2,8 @@
 # 💫 About Me:
 I'm a Computer Engineering student at University of Waterloo interested in creating projects and exploring technology!
 
+I'm currently working on Stockbuddy, which is a virtual currency exchange made for traders to invest fake capital to get better with trading.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghavverm) 
 
 # 💻 Tech Stack:
