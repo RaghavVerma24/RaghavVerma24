@@ -11,7 +11,7 @@
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
-<h5 align="left">Programming Languages</h5>
+<h4 align="left">Programming Languages</h4>
 <p align="left"> 
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="30" />
   <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="30" />
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30" />
 </p>
 
-<h5 align="left">Frameworks</h5>
+<h4 align="left">Frameworks</h4>
 <p align="left"> 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="30">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="30">
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer" height="30">
 </p>
 
-<h5 align="left">Databases</h5>
+<h4 align="left">Databases</h4>
 <p align="left"> 
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="30">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" height="30">
