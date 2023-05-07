@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Computer Engineering student at University of Waterloo interested in creating projects and exploring technology!</h3>
 
 - 🔭 I’m currently working on [Simpliask](https://github.com/RaghavVerma24/SimpliAsk), a full-stack doctor to patient connectivity tool.
-- 🌱 I’m currently learning **Express, Node.js, AI/ML**
+- 🌱 I’m currently learning **Django, AI/ML, MERN**
 - 📫 How to reach me **racooraghav24@gmail.com**
 - 📄 Know about my experiences [Resume](https://flowcv.com/resume/fsg3b5ogir)
 - ⚡ Fun fact **I've travelled to over 20 countries**
