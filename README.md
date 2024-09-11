@@ -2,7 +2,7 @@
 
 ```json
 {
-  "Name": "Raghav Vermau",
+  "Name": "Raghav Verma",
   "School": "University of Waterloo",
   "Major": "Computer Engineering",
   "Interests": ["Machine Learning", "Backend Development", "Cloud Computing"],
