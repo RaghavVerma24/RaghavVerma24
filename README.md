@@ -31,7 +31,7 @@
 }
 ```
 
-- 🌱 I’m currently learning **Apache Kafka, AI/ML, Cloud Technoglies*
+- 🌱 I’m currently learning **Apache Kafka, AI/ML, Cloud Technologies*
 - 📫 How to reach me **raghav.verma@uwaterloo.ca**
 - ⚡ Fun fact **I've travelled to over 20 countries**
 
