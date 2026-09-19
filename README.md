@@ -6,20 +6,6 @@
   "School": "University of Waterloo",
   "Major": "Computer Engineering",
   "Interests": ["Machine Learning", "Backend Development", "Cloud Computing"],
-  "Professional Experiences": [
-    {
-      "Role": "Software Engineer"
-      "Organization": "LeapAP (ex. CondoWorks)",
-    },
-    {
-      "Role": "Software Engineer"
-      "Organization": "Syngli",
-    },
-    {
-      "Role": "Full-Stack Developer"
-      "Organization": "Solinst",
-    }
-  ]
   "Languages" : ["Python", "C++", "C", "C#", "Java", "Javascript", "TypeScript", "PHP", "SQL", "HTML", "CSS"],
   "Technologies" : {
       "Frameworks" : ["React.js", "Express.js", "Node.js", "Laravel", "Flask", "Three.js", "Puppeteer"],
